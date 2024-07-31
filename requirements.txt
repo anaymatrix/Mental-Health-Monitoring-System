@@ -55,7 +55,7 @@ google-pasta==0.2.0
 grpcio==1.58.0
 gTTS==2.5.1
 h5py==3.9.0
-horovod==0.28.1
+# horovod==0.28.1
 ijson==3.2.3
 ipykernel==6.25.2
 ipython==8.15.0
