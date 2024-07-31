@@ -140,7 +140,6 @@ ply==3.11
 prometheus-client==0.17.1
 prompt-toolkit==3.0.39
 protobuf==3.20.3
-psutil==5.9.5
 pure-eval==0.2.2
 pyarrow==17.0.0
 pyasn1==0.5.0
@@ -189,9 +188,9 @@ tensorboard-data-server==0.7.1
 tensorflow==2.14.0
 tensorflow-estimator==2.14.0
 tensorflow-io-gcs-filesystem==0.34.0
-tensorrt==8.6.1.post1
-tensorrt-bindings==8.6.1
-tensorrt-libs==8.6.1
+# tensorrt==8.6.1.post1
+# tensorrt-bindings==8.6.1
+# tensorrt-libs==8.6.1
 termcolor==2.3.0
 terminado==0.17.1
 threadpoolctl==3.2.0
