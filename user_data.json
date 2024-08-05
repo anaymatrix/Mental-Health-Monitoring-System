@@ -1,0 +1,22 @@
+{
+    "anaypanja": {
+        "name": "anay",
+        "email": "anay@rpigroup.ai",
+        "password": "anay"
+    },
+    "admin": {
+        "name": "admin",
+        "email": "admin",
+        "password": "admin"
+    },
+    "abc": {
+        "name": "abc",
+        "email": "abc",
+        "password": "abc"
+    },
+    "Ayan": {
+        "name": "_ayan@",
+        "email": "ayanacharyya7@gmail.com",
+        "password": "Anay@123"
+    }
+}
